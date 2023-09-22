@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ShoppingCartApp/static/css/main.eb96130a.css",
+    "main.js": "/ShoppingCartApp/static/js/main.228b29e7.js",
+    "static/media/logo.png": "/ShoppingCartApp/static/media/logo.abe38ad162a16fe8cdda.png",
+    "index.html": "/ShoppingCartApp/index.html",
+    "main.eb96130a.css.map": "/ShoppingCartApp/static/css/main.eb96130a.css.map",
+    "main.228b29e7.js.map": "/ShoppingCartApp/static/js/main.228b29e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb96130a.css",
+    "static/js/main.228b29e7.js"
+  ]
+}
